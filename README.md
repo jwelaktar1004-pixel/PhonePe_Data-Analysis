@@ -2,9 +2,15 @@ PhonePe Financial Services Dashboard: 2024 Analytics Project
 
 
 
-**Project Overview**  
+Objective:
 
-As a data enthusiast passionate about fintech innovation, I developed this real world comprehensive analytics project analyzing PhonePe's financial services dashboard for 2024 . Leveraging visualizations from a 5-page interactive dashboard (built in Tableau/Power BI), I extracted and synthesized key metrics on transaction volumes, processed amounts, success rates, and failure patterns across core services: Insurance, Loans & Credit, Money Transfers, and Recharges & Bills.  
+To analyze the end-to-end performance of all business services (Loans, Insurance, Money Transfer, Recharge & Bills) to identify revenue contribution, seasonal trends, failure reasons, and improvement opportunities for enhancing overall business efficiency and customer experience.
+
+
+
+Dataset (30 MB): [Download from Google Drive](https://docs.google.com/spreadsheets/d/17fsaAyXvkkdfNWJGbgS-Ynx2IWAkk8DW/edit?usp=sharing&ouid=106046100802805057417&rtpof=true&sd=true)
+
+
 
 
 
