@@ -15,43 +15,175 @@ Power Bi Dashboard Link : https://drive.google.com/file/d/1xD2ihGW59qOGFTenIZPOk
 Power Bi Service Link : https://app.powerbi.com/links/qXN9vqbaxa?ctid=b2d3e9a6-6a46-410a-af06-8d8f20cc8a99&pbi_source=linkShare&bookmarkGuid=dc1440d7-f997-413e-80eb-34982b871a20
 
 
-
-The project uncovers actionable insights into PhonePe's ecosystem, highlighting a total processed value of ₹6,673M across 371K+ transactions, with an overall 96% success rate. It identifies growth drivers (e.g., 15% MoM uplift in loan volumes) and bottlenecks (e.g., 97% failure in credit disbursals due to bank declines), positioning PhonePe for enhanced user experience and scalability in India's booming UPI landscape.  
-
-
-
 **Key Insights & Highlights**  
 
-- **Volume Leaders**: Loans & Credit dominated with ₹2,431M (36% of total), followed by Insurance at ₹513M.  
+📊 1. HIGH-LEVEL BUSINESS PERFORMANCE
+Revenue Mix
 
-- **Reliability Benchmarks**: Recharges & Bills achieved 99% success (51K txns, ₹51M), ideal for high-frequency utilities.  
+Loans contribute 79%+ of total revenue (high dependency).
 
-- **Trends**: Q1 showed steady 10-15% MoM growth, with peaks projected for Q4 (e.g., 13.7M in general services by Dec 2024).  
+Insurance + Money Transfer contribute moderately.
 
-- **Failure Analysis**: 4% overall failures (15K txns) were driven by server errors (25-67%), user PIN issues (13-77%), and insufficient funds (3-60%)—opportunities for AI-driven predictions and UX tweaks.  
+Recharge/Bills = lowest contributor.
 
-- **Projections**: With targeted fixes, expect 20% YoY volume growth and 99% success by Q1 2025.  
+Indicates high loan volume and possibly high loan-related fees.
 
+Transaction Summary
 
+Failed transactions: 12k
 
-| Service | Total Amount (₹M) | Success Rate (%) | Top Failure Reason | Q1 Peak (₹M) |
+Successful: 288k
 
-|---------|-------------------|------------------|--------------------|--------------|
+Total: 300k
 
-| General | 3,333 | 96 | Server Error (67%) | 11.5 (Mar) |
+Failure Reason Summary
 
-| Insurance | 513 | 47.8 | Wrong PIN (77%) | 1.4 (Mar) |
+System issues dominate → Server Error = largest failure cause.
 
-| Loans/Credit | 2,431 | 2.84 | Bank Declined (70%) | 8.5 (Mar) |
+User errors common → Wrong PIN + Wrong Info = 4k+ cases.
 
-| Money Transfer | 378 | 70.5 | Insufficient Funds (45%) | 1.25 (Mar) |
+Financial issues → Insufficient Balance nearly equal to Wrong PIN.
 
-| Recharges/Bills | 51 | 98.95 | Insufficient Funds (60%) | 4.0 (Mar) |
+📊 2. MONTHLY & SEASONAL TRENDS
 
+Peak month: July
 
+Lowest: February
 
-This project demonstrates my skills in data visualization, fintech analytics, and stakeholder storytelling—directly applicable to roles in product analytics or business intelligence.  
+Strongest quarter: Q3 (Jul–Sep)
 
+Weakest: Q1 (Jan–Mar), except March
 
+Seasonal pattern: Mid-year rise, stable year-end.
+
+🛡️ 3. INSURANCE INSIGHTS
+Performance & Payment Status
+
+Bike insurance = highest transactions (128.10M)
+
+Payments: 95.75% successful (47.88k), 4.25% failed (2.12k)
+
+Failure Reasons
+
+Wrong PIN: 33.76%
+
+Server Error: 33.66%
+
+Wrong PIN + Insufficient Amount = 1,409 customer-side issues
+
+Failures are 50% customer-related, 50% system-related
+
+Fixing top 3 reasons reduces failures by ~95%
+
+Monthly Insurance Trends
+
+Peaks: March, October
+
+Lowest: January
+
+Mid-year: stable
+
+Strong months: October > March > June/July
+
+Customer base = consistent, moderate fluctuations.
+
+💰 4. LOANS
+Loan Activity Insights
+
+Highest demand: July–September
+
+Weakest: February
+
+Strong months: March, September, December
+
+Activity range: 7.4M–10.2M → stable business
+
+Seasonal cycle:
+
+High: March, Jul–Sep, Dec
+
+Low: Feb, May
+
+Loan Payment Status
+
+Successful: 47.97k (95.95%)
+
+Failed: 2.03k (4.05%)
+
+Failure Reason
+
+Wrong Info = highest failure reason
+
+Loan Types
+
+Gold Loan = highest total transactions
+
+💸 5. MONEY TRANSFER
+Performance & Status
+
+Successful transactions: 144k
+
+Payment status:
+
+Successful: 143.96k (95.98%)
+
+Failed: 6.04k (4.02%)
+
+Total failed: 6.04k
+
+Transaction Type Insights
+
+All transfer types: 94–95M → balanced usage
+
+UPI ID leads slightly
+
+High Self-Account transfers → customer trust
+
+QR ≈ Mobile Number → P2M & P2P both strong
+
+No underperforming method.
+
+Monthly Trends
+
+Best month: March
+
+Weak: April & February
+
+Strong period: Oct–Nov (festivals)
+
+Stable amounts: 1.1M–1.45M
+
+Failure Reason
+
+Insufficient amount = one of the highest causes
+
+📱 6. RECHARGE & BILLS
+Payment Status
+
+Successful: 48.08k (96.16%)
+
+Failed: 1.92k (3.84%)
+
+Failure Reasons
+
+Highest: Server Error
+
+Second: Wrong PIN
+
+Category Performance
+
+Mobile Recharge = 12.82M (highest)
+
+DTH = 12.64M (second highest)
+
+Monthly Trends
+
+Stable performance: 4.1M–4.3M each month
+
+Slight peaks: October, May, August
+
+Dips: June, February
+
+Low volatility → predictable for forecasting.
 
 Excited to connect—DM me for discussions on fintech trends or similar projects! #Fintech #DataAnalytics #PhonePe #UPI #DashboardViz  #Power Bi
