@@ -1,0 +1,32 @@
+4️⃣ Research Document
+Research Objective
+
+To study transaction behavior, service performance, failure patterns, and seasonality in PhonePe business services.
+
+Data Sources
+
+User dataset
+
+Transaction dataset
+
+Service-specific datasets (Loans, Insurance, Recharge, Money Transfer)
+
+Key Research Questions
+
+Which service contributes most to revenue?
+
+Why are transactions failing?
+
+Which months show peak activity?
+
+Which services are underperforming?
+
+Key Findings
+
+Loans contribute over 79% of revenue
+
+Server errors are the top failure reason
+
+Q3 (July–September) is the peak period
+
+Recharge & Bills show stable trends
