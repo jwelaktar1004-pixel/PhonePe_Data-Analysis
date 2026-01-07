@@ -1,0 +1,47 @@
+1️⃣ BRD – Business Requirement Document
+
+Project Name: PhonePe Business Performance Analysis
+
+Business Objective
+
+To improve overall business efficiency and customer experience by analyzing transaction performance, failure reasons, seasonal trends, and revenue dependency across PhonePe services.
+
+Business Problem
+
+High dependency on Loan services for revenue
+
+Frequent transaction failures due to system and customer errors
+
+Lack of visibility into service-wise and seasonal performance
+
+Stakeholders
+
+Business Team
+
+Product Managers
+
+Operations Team
+
+Technology Team
+
+Data Analytics Team
+
+High-Level Business Requirements
+
+Identify revenue contribution by each service
+
+Analyze transaction success vs failure
+
+Detect major failure reasons
+
+Identify seasonal and monthly trends
+
+Provide actionable recommendations
+
+Success Metrics
+
+Reduction in transaction failure rate
+
+Improved service adoption beyond Loans
+
+Better preparedness during peak seasons
