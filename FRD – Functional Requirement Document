@@ -1,0 +1,32 @@
+2️⃣ FRD – Functional Requirement Document
+Functional Requirements
+
+Service Performance Analysis
+
+System should display revenue and transaction volume by service
+
+Drill-down by service type (Loan, Insurance, Recharge, etc.)
+
+Transaction Status Tracking
+
+Show Successful, Failed, Pending transactions
+
+Categorize failure reasons (Server Error, Wrong PIN, Insufficient Balance)
+
+Trend Analysis
+
+Monthly and quarterly transaction trends
+
+Identify peak and low-performing months
+
+Visualization Requirements
+
+Bar, Line, Pie, and Donut charts
+
+Filters for date, service, payment status
+
+Insights Dashboard
+
+Highlight key insights and recommendations
+
+Exportable reports
