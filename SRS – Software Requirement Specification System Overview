@@ -1,0 +1,32 @@
+3️⃣ SRS – Software Requirement Specification
+System Overview
+
+A Power BI–based analytics system to analyze PhonePe business transaction data.
+
+Functional Requirements
+
+Import multiple datasets (Users, Transactions, Services)
+
+Clean and transform data using Power Query
+
+Generate automated visual dashboards
+
+Support service-wise, monthly, and failure analysis
+
+Non-Functional Requirements
+
+Performance: Dashboards should load within 5 seconds
+
+Usability: Simple and interactive UI
+
+Scalability: Ability to add future service datasets
+
+Reliability: Accurate and consistent reporting
+
+Tools & Technology
+
+Power BI
+
+Excel
+
+Power Query
