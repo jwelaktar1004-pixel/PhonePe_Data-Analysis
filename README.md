@@ -6,6 +6,12 @@ Objective:
 
 To analyze the end-to-end performance of all business services (Loans, Insurance, Money Transfer, Recharge & Bills) to identify revenue contribution, seasonal trends, failure reasons, and improvement opportunities for enhancing overall business efficiency and customer experience.
 
+Business Problem :
+PhonePe needed to understand why the business is heavily dependent on Loans and why transaction failures (mainly server and user errors) are impacting customer experience and operational efficiency across services. 
+
+Business Solution :
+Analyze service-wise performance and failure reasons to improve system infrastructure, reduce customer errors through better UI/UX, and diversify revenue by strengthening underperforming services like Recharge & Bills. 
+
 
 
 Dataset (30 MB): [Download from Google Drive](https://docs.google.com/spreadsheets/d/17fsaAyXvkkdfNWJGbgS-Ynx2IWAkk8DW/edit?usp=sharing&ouid=106046100802805057417&rtpof=true&sd=true)
